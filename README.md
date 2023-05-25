@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Guruprasad Yalshetti
+🌱 I’m currently learning AWS and DevOps
 <!--
 **GuruprasadYALSHETTI/GuruprasadYalshetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
