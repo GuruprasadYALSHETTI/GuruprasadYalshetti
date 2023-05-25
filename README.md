@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Guruprasad Yalshetti and I'm a DevOps Engineer/Web Developer. I'm from Dharwad, Karnataka. You can find me on  LinkedIn.
+My name is Guruprasad Yalshetti and I'm a DevOps Engineer/Web Developer. I'm from Dharwad, Karnataka. You can reach out to me through LinkedIn.
 🌱 I’m currently learning Web Development.
 🔭 I’m currently working on AWS and DevOps.
 <!--
