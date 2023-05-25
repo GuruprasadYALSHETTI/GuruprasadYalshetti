@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Guruprasad Yalshetti
+I'm Guruprasad Yalshetti and I'm a DevOps Engineer. I'm from Dharwad, Karnataka. You can find me on LinkedIn
 🌱 I’m currently learning AWS and DevOps
 <!--
 **GuruprasadYALSHETTI/GuruprasadYalshetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
